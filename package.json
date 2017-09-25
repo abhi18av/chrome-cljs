@@ -13,5 +13,9 @@
     "headless"
   ],
   "author": "abhi18av",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lumo-cljs": "^1.8.0-beta",
+    "puppeteer": "^0.11.0"
+  }
 }
