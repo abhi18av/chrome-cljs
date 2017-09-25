@@ -1,0 +1,2 @@
+resources/andare-0.7.0.jar filter=lfs diff=lfs merge=lfs -text
+resources/promesa-1.9.0.jar filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,1 @@
+Installed calvin-cljs globally

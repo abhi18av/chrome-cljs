@@ -15,6 +15,7 @@
   "author": "abhi18av",
   "license": "MIT",
   "dependencies": {
+    "colors": "^1.1.2",
     "lumo-cljs": "^1.8.0-beta",
     "puppeteer": "^0.11.0"
   }
