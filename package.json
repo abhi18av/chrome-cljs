@@ -1,0 +1,17 @@
+{
+  "name": "chrome-cljs",
+  "version": "0.0.1",
+  "description": "A package that wraps chrome in sexy curves",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cljs",
+    "lumo",
+    "chrome",
+    "headless"
+  ],
+  "author": "abhi18av",
+  "license": "MIT"
+}
